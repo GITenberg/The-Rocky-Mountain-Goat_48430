@@ -1,0 +1,23 @@
+_repo: The-Rocky-Mountain-Goat_48430
+creator:
+  author:
+    agent_name: Grant, Madison
+    birthdate: 1865
+    deathdate: 1937
+    gutenberg_agent_id: '44795'
+    url: http://www.gutenberg.org/2009/agents/44795
+description: ''
+gutenberg_issued: '2015-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48430'
+  lccn: '05025413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mountain goat'
+- !lcc 'QL'
+title: The Rocky Mountain Goat
+url: http://www.gutenberg.org/ebooks/48430
