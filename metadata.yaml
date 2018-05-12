@@ -1,4 +1,8 @@
 _repo: The-Rocky-Mountain-Goat_48430
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48430-h/images/cover.jpg
 creator:
   author:
     agent_name: Grant, Madison
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '44795'
     url: http://www.gutenberg.org/2009/agents/44795
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48430#The-Rocky-Mountain-Goat
 gutenberg_issued: '2015-03-08'
 gutenberg_type: Text
 identifiers:
